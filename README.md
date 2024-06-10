@@ -14,20 +14,15 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Capstone Project</b>
+  - [Phase 1: Performing Reconnaissance](https://docs.google.com/document/d/1SqkVDToy5EKMyIbzX4496XBTJ99Al9o6yL9kTTdBuuw/edit)
+  - [Phase 2: Identifying Targets and Run scans](https://docs.google.com/document/d/1n-5lDRO2T8CKbwXPIpHq-XSqUXr1yZcEIaxwVG9eu_Y/edit)
+  - [Phase 3: Identifying Vulnerabilities](https://docs.google.com/document/d/1wU98fKSbsRwfQx1i7x4vrogprUPwGo51iyVMBDJrNL8/edit)
 
 
 <h2>📄 Certifications</h2>
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
