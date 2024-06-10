@@ -10,7 +10,7 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (Penetration Testing)</b>
+- <b>Penetration Testing</b>
   - [System Compromise Project](https://docs.google.com/document/d/16TjiP2W8gwk2bxnCsny3UFhaskBiFYRl3St7ugM_tGc/edit)
   
 - <b>Capstone Project</b>
