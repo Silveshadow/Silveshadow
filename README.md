@@ -8,7 +8,7 @@
   - [Phase 1: Performing Reconnaissance](https://docs.google.com/document/d/1SqkVDToy5EKMyIbzX4496XBTJ99Al9o6yL9kTTdBuuw/edit)
   - [Phase 2: Identifying Targets and Run scans](https://docs.google.com/document/d/1n-5lDRO2T8CKbwXPIpHq-XSqUXr1yZcEIaxwVG9eu_Y/edit)
   - [Phase 3: Identifying Vulnerabilities](https://docs.google.com/document/d/1wU98fKSbsRwfQx1i7x4vrogprUPwGo51iyVMBDJrNL8/edit)
-  - [Phase 4: Threat Assement]((https://docs.google.com/document/d/1wNsoCC_kptj6PtSEGrBijZPcuuM7j9BQDprf-DZTkUg/edit))
+  - [Phase 4: Threat Assement](https://docs.google.com/document/d/1wNsoCC_kptj6PtSEGrBijZPcuuM7j9BQDprf-DZTkUg/edit)
   - [Phase 5 PT 1: Executive Summary](https://docs.google.com/document/d/1pPjWhlHL2XJr_bYPLO-I0dlPL5bdb5rCMrOX5M-viiM/edit)
   - [Phase 5 PT 2: Technical Report](https://docs.google.com/document/d/1fmcMEr89KlXDMz45aGWRU-bJ6Swf6CL05omFTLqVh1g/edit)
 
