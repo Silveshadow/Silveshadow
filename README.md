@@ -3,6 +3,9 @@
 
 - <b>Penetration Testing</b>
   - [System Compromise Project](https://docs.google.com/document/d/16TjiP2W8gwk2bxnCsny3UFhaskBiFYRl3St7ugM_tGc/edit)
+
+- <b>Cybersecurity Analyst</b>
+  - [Vulnerability Scanning using OpenVas](https://docs.google.com/document/d/1ahY32nSYWXAZ0JUZQKWtohCNpxqih2HgAvqOFUyOUFA/edit)
   
 - <b>Capstone Project</b>
   - [Phase 1: Performing Reconnaissance](https://docs.google.com/document/d/1SqkVDToy5EKMyIbzX4496XBTJ99Al9o6yL9kTTdBuuw/edit)
