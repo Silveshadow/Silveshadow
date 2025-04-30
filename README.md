@@ -21,6 +21,7 @@
 <h2>📄 Certifications</h2>
  
   - [SpringBoard Cybersecurity Certificate](https://www.credential.net/94b9e557-69ec-4693-8b8f-8371b85331a5#gs.dc7n7x)
+  - [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/AB2W1UZ6BGNK)
 
 
 
