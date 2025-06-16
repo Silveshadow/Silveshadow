@@ -5,7 +5,6 @@
   - [System Compromise Project](https://docs.google.com/document/d/16TjiP2W8gwk2bxnCsny3UFhaskBiFYRl3St7ugM_tGc/edit)
 
 - <b>Cybersecurity Analyst</b>
-  - [Vulnerability Scanning using OpenVas](https://docs.google.com/document/d/1ahY32nSYWXAZ0JUZQKWtohCNpxqih2HgAvqOFUyOUFA/edit)
   - [A Day In the Life of a Junior Security Analyst Project](https://docs.google.com/document/d/1Uu92XptwWkaM33VZv3TcyriYrot6GArnc0agEu2fCXg/edit?tab=t.0)
   
 - <b>Capstone Project</b>
