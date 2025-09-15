@@ -24,6 +24,8 @@
  
   - [SpringBoard Cybersecurity Certificate](https://www.credential.net/94b9e557-69ec-4693-8b8f-8371b85331a5#gs.dc7n7x)
   - [IBM Cybersecurity Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/AB2W1UZ6BGNK)
+  - [IBM Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/verify/N87QD2IQ810C)
+  - [Google AI Essentials](https://www.coursera.org/account/accomplishments/specialization/WEZ3NSG8LSPD)
 
 
 
