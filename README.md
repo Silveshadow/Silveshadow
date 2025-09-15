@@ -3,6 +3,7 @@
 
 - <b>Penetration Testing</b>
   - [System Compromise Project](https://docs.google.com/document/d/16TjiP2W8gwk2bxnCsny3UFhaskBiFYRl3St7ugM_tGc/edit)
+  - [Phishing Attack](https://github.com/Silveshadow/Social-Engineering-using-SET/blob/main/README.md)
 
 - <b>Cybersecurity Analyst</b>
   - [A Day In the Life of a Junior Security Analyst Project](https://docs.google.com/document/d/1Uu92XptwWkaM33VZv3TcyriYrot6GArnc0agEu2fCXg/edit?tab=t.0)
