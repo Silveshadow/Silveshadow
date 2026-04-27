@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin! <a href="https://www.linkedin.com/in/justin-harding-431578294/">SOC Analyst/</a>
+<h1>Hi, I'm Justin! <a href="https://www.linkedin.com/in/justin-harding-431578294/">SOC Analyst</a>
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Penetration Testing</b>
